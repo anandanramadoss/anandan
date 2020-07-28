@@ -1,4 +1,4 @@
-# Umbra-Social-Distancing
+# Umbra Social Distancing
 
 - [The Problem](#the-problem)
 - [Umbra Social Distancing is the Solution](#umbra-social-distancing-is-the-solution)
