@@ -5,15 +5,6 @@
 - [Umbra-Social-Distancing - Business Model]
 - [Umbra-Social-Distancing - Architecture Diagram]
 
-# The Problem: <a name="problem"></a>
-
-- We have lost thousands of lives in few months In our country and hundreds of thousands in the world due to covid19 pandemic.
-- Precaution to avoid this situation - According to the study the social distancing is one of the way to reduce the spreading of covid19 pandemic and if this would have been followed properly, we could have saved thousands of lives of our fellow human beings.
-- On average, the risk of getting infected when remaining 1 meter (a little more than 3 ft) from an infected person is about 3%, while staying less than 1 meter apart upped the risk to 13%. The further people stand away from one another, the lower their risk. In fact, the risk drops by half for every additional meter of distancing up to 3 meters (about 10 ft).
-
-<p align="center">
-    <img max-height=300 height=300  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/covid_stats_1.png"/>
-</p>
 
 # Umbra Social Distancing is the solution: <a name="solution"></a>
 
@@ -120,3 +111,15 @@ Here's what the roadmap looks like:
 - IOT integration for checking number of violations in social distancing
 
 - One Click Report on Sales and Business co-related to covid-19
+
+
+# The Problem: <a name="problem"></a>
+
+- We have lost thousands of lives in few months In our country and hundreds of thousands in the world due to covid19 pandemic.
+- Precaution to avoid this situation - According to the study the social distancing is one of the way to reduce the spreading of covid19 pandemic and if this would have been followed properly, we could have saved thousands of lives of our fellow human beings.
+- On average, the risk of getting infected when remaining 1 meter (a little more than 3 ft) from an infected person is about 3%, while staying less than 1 meter apart upped the risk to 13%. The further people stand away from one another, the lower their risk. In fact, the risk drops by half for every additional meter of distancing up to 3 meters (about 10 ft).
+
+<p align="center">
+    <img max-height=300 height=300  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/covid_stats_1.png"/>
+</p>
+
