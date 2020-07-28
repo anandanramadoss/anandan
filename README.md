@@ -2,7 +2,7 @@
 
 - [The Problem](#the-problem)
 - [Umbra Social Distancing is the Solution](#umbra-social-distancing-is-the-solution)
-- [Umbra Social Distancing Business Model](#umbra-Social-Distancing---Business-Model)
+- [Umbra Social Distancing - Business Model](#umbra-Social-Distancing---Business-Model)
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
 
