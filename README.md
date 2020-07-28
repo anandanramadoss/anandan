@@ -4,7 +4,7 @@
 - [Umbra Social Distancing is the Solution](#umbra-social-distancing-is-the-solution)
 - [Umbra Social Distancing - Business Model](#umbra-Social-Distancing---business-model)
 - [Umbra Social Distancing - Architecture Diagram](#umbra-social-distancing---architecture-diagram)
-- [Umbra Social Distancing - IBM Services: IBM Cloud at heart](#umbra-social-distancing---iBM-services:-iBM-cloud-at-heart)
+- [Umbra Social Distancing - IBM Services IBM Cloud at heart](#umbra-social-distancing---iBM-services-iBM-cloud-at-heart)
 
 
 
