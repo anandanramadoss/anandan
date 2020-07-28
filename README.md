@@ -133,6 +133,6 @@ Here's what the roadmap looks like:
 
 - One Click Report on Sales and Business co-related to covid-19
 
-[![Watch the view](https://github.com/anandanramadoss/anandan/blob/master/Slide1.PNG)](https://github.com/anandanramadoss/anandan/blob/master/Slide2.PNG)
+[![Watch the view](https://github.com/anandanramadoss/anandan/blob/master/Slide1.PNG)](https://github.com/anandanramadoss/anandan/blob/master/Slide2.PNG)(https://github.com/anandanramadoss/anandan/blob/master/Slide3.PNG)](https://github.com/anandanramadoss/anandan/blob/master/Slide4.PNG)
 
 
