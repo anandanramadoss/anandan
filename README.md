@@ -1,7 +1,7 @@
 # Umbra-Social-Distancing
 
 - [The Problem](#the-problem)
-- [Emoji](#emoji)
+- [Umbra Social Distancing Is The Solution](#umbra-social-distancing-is-the-solution)
 - [Shields Badges](#Shields-Badges)
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
@@ -18,6 +18,38 @@
     <img max-height=300 height=300  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/covid_stats_1.png"/>
 </p>
 
+
+# Umbra Social Distancing Is The Solution
+
+<p align="center">
+    <img max-height=100 height=200  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/logo.png"/>
+    <br>The motto of umbra is Safe Distancing Simplified.
+</p>
+
+Umbra-Social-Distancing is an open-source AI-enabled platform that serves as a one-stop enabler to enable people to follow social distancing norms while trying to avail the essential services.
+
+For users, Umbra-Social-Distancing is an extremely easy-to-use Safe Queuing Mechanism which helps users to maintain proper safe distance in a queue.
+<br>
+
+- Umbra is the next generation e-commerce platform that takes care of safety of consumers during these times of pandemic.
+
+- Umbra can be used at malls, offices, libraries etc. where ever we see people coming together.
+
+- Umbra has a chatbot feature to answer all covid related queries
+
+- Umbra platform allows users to shop for essential commodities and get a Safe Queue Tag which can be used at malls, movies etc.
+
+- The platform gives latest news on Covid and always keeps the users updated.
+
+- The administration can see if people are maintaining safety norms using the user friendly dashboard.
+
+- The AI enabled platform gives a certificate of entry if users are having proper safety measures.
+
+- The admin can see the number of users who were admitted and rejected based on the AI platform. It can be used to get a lot of insights.
+
+- The AI enabled social distancing app can show the number of social distancing violations done by users at a particular time.
+
+- The Bluetooth based social distancing alert will warn users whenever a person comes nearby based on the internsity of Bluetooth signals.
 
 # Escape Characters
 
