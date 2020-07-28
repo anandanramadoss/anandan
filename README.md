@@ -1,10 +1,22 @@
 # Umbra-Social-Distancing
 
-- [Escape Characters](#escape-characters)
+- [The Problem](#the-problem)
 - [Emoji](#emoji)
 - [Shields Badges](#Shields-Badges)
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
+
+
+
+# The Problem
+
+- We have lost thousands of lives in few months In our country and hundreds of thousands in the world due to covid19 pandemic.
+- Precaution to avoid this situation - According to the study the social distancing is one of the way to reduce the spreading of covid19 pandemic and if this would have been followed properly, we could have saved thousands of lives of our fellow human beings.
+- On average, the risk of getting infected when remaining 1 meter (a little more than 3 ft) from an infected person is about 3%, while staying less than 1 meter apart upped the risk to 13%. The further people stand away from one another, the lower their risk. In fact, the risk drops by half for every additional meter of distancing up to 3 meters (about 10 ft).
+
+<p align="center">
+    <img max-height=300 height=300  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/covid_stats_1.png"/>
+</p>
 
 
 # Escape Characters
