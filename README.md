@@ -2,7 +2,7 @@
 
 - [The Problem](#the-problem)
 - [Umbra Social Distancing is the Solution](#umbra-social-distancing-is-the-solution)
-- [Shields Badges](#Shields-Badges)
+- [Umbra Social Distancing Business Model](#umbra-Social-Distancing---Business-Model)
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
 
@@ -50,6 +50,23 @@ For users, Umbra-Social-Distancing is an extremely easy-to-use Safe Queuing Mech
 - The AI enabled social distancing app can show the number of social distancing violations done by users at a particular time.
 
 - The Bluetooth based social distancing alert will warn users whenever a person comes nearby based on the internsity of Bluetooth signals.
+
+
+# Umbra Social Distancing - Business Model 
+
+- <b>Community Help </b>: Every person who is going out for work , shopping , social cause , front line works for Covid-19 will be benefited by this application
+
+- <b>Ease of Use </b>: Very user friendly application which can be used by all the people from different age range very easily
+
+- <b>Quick Set-up </b>: Can be easily integrated with existing CCTV cameras , no additional hardware needed for set-up
+
+- <b>Customised Dashboards </b>: Dashboards can be customised based on the clients need which will help for better analysis of data and situation
+
+- <b>The client doesn't have to spend extra money on any hardware. We support IOS & Android devices
+
+- <b>Platform and not Product </b>: Beauty of UMBRA , it’s not a product ,it’s a platform which can be integrated with any system/application
+
+
 
 # Escape Characters
 
