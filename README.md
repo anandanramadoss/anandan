@@ -2,9 +2,9 @@
 
 - [The Problem](#the-problem)
 - [Umbra Social Distancing is the Solution](#umbra-social-distancing-is-the-solution)
-- [Umbra Social Distancing - Business Model](#umbra-Social-Distancing---Business-Model)
-- [Markdown Editor](#markdown-editor)
-- [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
+- [Umbra Social Distancing - Business Model](#umbra-Social-Distancing---business-model)
+- [Umbra Social Distancing - Architecture Diagram](#umbra-social-distancing---architecture-diagram)
+- [Umbra Social Distancing - IBM Services: IBM Cloud at heart](#umbra-social-distancing---iBM-services:-iBM-cloud-at-heart)
 
 
 
@@ -65,6 +65,37 @@ For users, Umbra-Social-Distancing is an extremely easy-to-use Safe Queuing Mech
 - <b>The client doesn't have to spend extra money on any hardware. We support IOS & Android devices
 
 - <b>Platform and not Product </b>: Beauty of UMBRA , it’s not a product ,it’s a platform which can be integrated with any system/application
+
+
+
+# Umbra Social Distancing - Architecture Diagram
+
+We have orchestrated a lot of solutions together in this app.
+
+Here's what the architecture looks like:
+
+<p align="center">
+    <img max-height=400 height=400  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/architecture.png"/>
+</p>
+
+# Umbra Social Distancing - IBM Services: IBM Cloud at heart
+
+We have integrated a lot of IBM services together to bring the product to life.
+
+- <b>IBM Cloud Functions</b> : The Functions-as-a-service (FaaS) is used to fetch details from IBM Discovery Service and fetch top 3 news related to Covid.
+
+- <b>Cloudant</b> : We store all the user's data and product catalog in IBM Cloudant.
+
+- <b>IBM Watson Assisstant</b> : We trained a watson based Chatbot Assisstant to help users with answers to covid queries.
+
+- <b>IBM Cloud Object Storage</b> : The training and test data set of images for Visual Recognition is saved here.
+
+- <b>IBM Discovery Service</b> : The Discovery service is used to scrape latest news on covid and refine data remove stop words.
+
+- <b>IBM Watson Visual recognition</b> : The platform is used to check if a person is wearing proper mask using Deep Learning.
+
+- <b>Push notification</b> : We use this service to send push notifications to user for all detail.
+
 
 
 
