@@ -1,7 +1,7 @@
 # Umbra-Social-Distancing
 
 - [The Problem](#the-problem)
-- [Umbra Social Distancing Is The Solution](#umbra-social-distancing-is-the-solution)
+- [Umbra Social Distancing is the Solution](#umbra-social-distancing-is-the-solution)
 - [Shields Badges](#Shields-Badges)
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
@@ -19,7 +19,7 @@
 </p>
 
 
-# Umbra Social Distancing Is The Solution
+# Umbra Social Distancing is the Solution
 
 <p align="center">
     <img max-height=100 height=200  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/logo.png"/>
