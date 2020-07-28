@@ -5,7 +5,10 @@
 - [Umbra Social Distancing - Business Model](#umbra-Social-Distancing---business-model)
 - [Umbra Social Distancing - Architecture Diagram](#umbra-social-distancing---architecture-diagram)
 - [Umbra Social Distancing - IBM Services IBM Cloud at heart](#umbra-social-distancing---iBM-services-iBM-cloud-at-heart)
-
+- [Umbra Social Distancing - Application Links](#umbra-social-distancing---application-links)
+- [Umbra Social Distancing - Demo](#umbra-social-distancing---demo)
+- [Umbra Social Distancing - Roadmap](#umbra-social-distancing---roadmap)
+- [Umbra Social Distancing - Future Scope](#umbra-social-distancing---future-scope)
 
 
 # The Problem
@@ -98,55 +101,35 @@ We have integrated a lot of IBM services together to bring the product to life.
 
 
 
+# Umbra Social Distancing - Application Links 
 
-# Escape Characters
+Admin Dashboard : https://covid-cfc.eu-gb.mybluemix.net/
 
-```
-\   backslash
-`   backtick
-*   asterisk
-_   underscore
-{}  curly braces
-[]  square brackets
-()  parentheses
-#   hash mark
-+   plus sign
--   minus sign (hyphen)
-.   dot
-!   exclamation mark
-```
+API Documentation : https://covid-cfc.eu-gb.mybluemix.net/swagger/
 
-# Emoji
+Client APP : https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/application/client-app/apk/umbra.apk
 
-* [Emoji](emoji.md#emoji);
-	* [People](emoji.md#people) - (:blush: ; :hushed: ; :shit:);
-	* [Nature](emoji.md#nature) - (:sunny: ; :snowman: ; :dog:);
-	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:);
-	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:);
-	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:);
-* [Kaomoji](emoji.md#kaomoji);
-* [Special-Symbols](emoji.md#special-symbols);
-	
+# Umbra Social Distancing - Demo
 
-# Shields Badges
+[![Watch the video](https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/umbra-play.png)](https://youtu.be/BpA65BjX3PQ)
 
-:warning: _We are not responsible for this site_
+# Umbra Social Distancing - Roadmap
 
-See more: [https://shields.io/](https://shields.io/)
+Here's what the roadmap looks like:
 
-[![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/fefong/markdown_readme/network)
-![Markdown](https://img.shields.io/badge/markdown-project-red)
+<p align="center">
+    <img max-height=800 height=800  src="https://github.com/tirthankar-kundu-persi/Umbra-Social-Distancing/blob/master/assets/roadmap.png"/>
+</p>
 
-# Markdown Editor
+# Umbra Social Distancing - Future Scope
 
-[StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
+- Feedback learning for ML model
 
-# Some links for more in depth learning
+- Support for wider range of Bluetooth Devices
 
-:page_facing_up: [Markdown Extras](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#markdown---extras)
+- Analytics on the infection pattern based on data available from our users
 
-:page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
+- IOT integration for checking number of violations in social distancing
 
-:page_facing_up: [Oficial](https://daringfireball.net/projects/markdown/)
-
+- One Click Report on Sales and Business co-related to covid-19
 
